@@ -18,5 +18,8 @@
         "path": "./themes/chai-all-time-color-theme.json"
       }
     ]
+  },
+  "dependencies": {
+    "chai-all-time": "file:"
   }
 }

@@ -1,0 +1,21 @@
+{
+  "name": "chai-all-time",
+  "displayName": "chai-all-time",
+  "description": "chai dark theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "chai-all-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/chai-all-theme-color-theme.json"
+      }
+    ]
+  }
+}

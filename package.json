@@ -2,7 +2,7 @@
   "name": "chai-all-time",
   "displayName": "chai-all-time",
   "description": "chai theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "PratulMakar",
   "engines": {
     "vscode": "^1.92.0"
@@ -18,8 +18,5 @@
         "path": "./themes/chai-all-time-color-theme.json"
       }
     ]
-  },
-  "dependencies": {
-    "chai-all-time": "file:"
   }
 }
